@@ -34,4 +34,3 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - [Blog](https://yourblog.com)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
-```` 
