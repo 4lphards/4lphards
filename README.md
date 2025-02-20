@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/)
+- [Twitter](https://twitter.com/)
+- [Instagram](https://www.instagram.com/madegarsc?igsh=MWpybmRkc3d1ZWYycg==)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
