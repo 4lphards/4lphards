@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🔭 I’m currently working on various projects, exploring new technologies, and contributing to open-source.
 - 🌱 I’m constantly learning and expanding my knowledge in different programming languages and frameworks.
 - 💬 Ask me about anything related to software development, open-source, or technology in general.
-- 📫 How to reach me: [your email@example.com]
+- 📫 How to reach me: myalghani@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing video games in my free time.
 
