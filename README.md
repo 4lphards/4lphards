@@ -1,6 +1,7 @@
 # 4lphards - Profile
 
 ## Hi there, I'm 4lphards 👋
+im a human who loves code and playing games. 
 
 ### GitHub Stats
 ![4lphards's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lphards&show_icons=true&theme=radical)
